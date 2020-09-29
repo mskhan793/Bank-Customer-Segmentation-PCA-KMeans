@@ -13,4 +13,7 @@ The steps performed in this task are:
 3. K-means using Scikit-Learn to perform customer segmentation
 4. Principal Component Analysis (PCA) technique to perform dimensionality reduction and data visualization
 
+The dataset could be accessed from Kaggle using following link:
+https://www.kaggle.com/kashyaprahul/credit-card-segmentation
+
 Note: This notebook will be updated with the passage of time. Your feedback will be highly appreciated. Please give star, if you like it and find it helpful. Your support in terms of star and positive feedback will keep me motivated :)
